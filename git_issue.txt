@@ -1,0 +1,3 @@
+When creating a new branch with git I am not sure,
+if a folder needs to be created too.
+Let's find out
