@@ -1,0 +1,5 @@
+Hello Command Line
+
+Let's see if I don't save the file if the changes are still saved.
+
+So first I need to add the file so git follows the changes.
